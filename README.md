@@ -2,7 +2,7 @@
 
 A simple, responsive website built with HTML & CSS to help users improve their fitness and nutrition knowledge compatible with both desktop and mobile devices. The website includes clear visual guides and practical tips for a complete workout experience.
 
-Features
+<h2><strong>Features</strong></h2>
 
  • Exercise Library – Browse exercises with images and videos demonstrating proper form.
  
@@ -18,7 +18,7 @@ How to Use
  
  • Watch videos for proper form and follow the suggested reps and sets.
 
-<h1><strong>Screenshots</strong></h1>
+<h2><strong>Screenshots</strong></h2>
 
 <img width="1848" height="923" alt="image" src="https://github.com/user-attachments/assets/ade8b36f-6b7c-4b30-8a8b-db0f62cc87ea" />
 <img width="1842" height="916" alt="image" src="https://github.com/user-attachments/assets/c931ec01-8e9a-45b3-bf09-0c3f5daa92ea" />
@@ -26,13 +26,13 @@ How to Use
 
 
 
-Technologies Used
+<h2><strong>Technologies Used</strong></h2>
 
  • HTML5 – Structure of the website
  
  • CSS3 – Styling and layout
 
-Future Improvements
+<h2><strong>Future Improvements</strong></h2>
 
  • Include search functionality for exercises
  
