@@ -18,7 +18,7 @@ How to Use
  
  • Watch videos for proper form and follow the suggested reps and sets.
 
-<strong>Screenshots</strong>
+<h1><strong>Screenshots</strong></h1>
 
 <img width="1848" height="923" alt="image" src="https://github.com/user-attachments/assets/ade8b36f-6b7c-4b30-8a8b-db0f62cc87ea" />
 <img width="1842" height="916" alt="image" src="https://github.com/user-attachments/assets/c931ec01-8e9a-45b3-bf09-0c3f5daa92ea" />
